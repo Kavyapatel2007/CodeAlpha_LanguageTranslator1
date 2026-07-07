@@ -28,10 +28,8 @@ pip install -r requirements.txt
 python app.py
 ```
 
-Then open **http://127.0.0.1:5000** in your browser.
-
 ## Live Demo
-🔗 [Add your deployed Render link here]
+🔗 [https://codealpha-languagetranslator1.onrender.com]
 
 ## Deployment
 Deployed on [Render](https://render.com) using `gunicorn` as the production server (see `Procfile`).
